@@ -6,7 +6,7 @@ Travel snippets
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>我的旅行日誌</title>
+  <title>還沒想到</title>
   <style>
     body {
       margin: 0;
@@ -78,16 +78,16 @@ Travel snippets
       <p>✈ A LITTLE JOURNAL OF MY LIFE</p>
       <h1>世界很大，慢慢去看。</h1>
       <p>
-        記錄走過的城市、遇見的人，<br>
-        還有那些值得收藏的旅行時光。
+        記錄所走過的城市，<br>
+        還有那些值得收藏的旅行片段。
       </p>
     </section>
 
     <section class="trips" id="trips">
-      <h2>我的旅行故事</h2>
+      <h2>旅行</h2>
       <div class="trip-card">
-        <h3>我的第一趟旅程</h3>
-        <p>📍 在這裡寫下你去過的城市</p>
+        <h3>所有的起點</h3>
+        <p>📍 香港,澳門,日本,柬埔寨,加拿大,美國,德國,奧地利,法國,韓國,波蘭,匈牙利,瑞典,比利時,英國,挪威,西班牙,克羅埃西亞,丹麥,希臘,卡達,義大利,芬蘭,愛沙尼亞,拉脱維亞,立陶宛,荷蘭,瑞士,梵蒂岡,阿爾巴尼亞,斯洛伐克,捷克,斯洛維尼亞,埃及,蒙特內哥羅,葡萄牙,保加利亞,羅馬尼亞,土耳其</p>
         <p>每一趟旅行，都是生活送給自己的禮物。</p>
       </div>
     </section>
